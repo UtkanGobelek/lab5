@@ -12,7 +12,7 @@ public class sec2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter base");
         long num1 = sc.nextLong();
-        System.out.println("enter second number");
+        System.out.println("enter exponent");
         int num2 = sc.nextInt();
         if (num2 < 0){
             System.out.println("invalid second number");
